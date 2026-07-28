@@ -89,7 +89,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uEVnXpaSQHd-pazGQjaj" name="Atividade">
-    <mxGraphModel dx="2150" dy="1183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="344" dy="189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,8 +142,16 @@
         <mxCell id="tfjduDvzeolNDpkilZ6a-32" edge="1" parent="1" source="tfjduDvzeolNDpkilZ6a-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="tfjduDvzeolNDpkilZ6a-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tfjduDvzeolNDpkilZ6a-33" connectable="0" parent="tfjduDvzeolNDpkilZ6a-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" value="Não" vertex="1">
+        <mxCell id="tfjduDvzeolNDpkilZ6a-33" connectable="0" parent="tfjduDvzeolNDpkilZ6a-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" value="Não" vertex="1">
           <mxGeometry relative="1" x="0.2681" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tfjduDvzeolNDpkilZ6a-38" edge="1" parent="1" source="tfjduDvzeolNDpkilZ6a-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="tfjduDvzeolNDpkilZ6a-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tfjduDvzeolNDpkilZ6a-39" connectable="0" parent="tfjduDvzeolNDpkilZ6a-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" value="Sim" vertex="1">
+          <mxGeometry relative="1" x="0.2899" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -162,8 +170,11 @@
         <mxCell id="tfjduDvzeolNDpkilZ6a-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;" value="Exibir &quot;Valores inválidos&quot;" vertex="1">
           <mxGeometry height="50" width="100" x="65" y="655" as="geometry" />
         </mxCell>
-        <mxCell id="tfjduDvzeolNDpkilZ6a-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Sistema calcula o resultado&lt;/font&gt;" vertex="1">
-          <mxGeometry height="120" width="120" x="640" y="620" as="geometry" />
+        <mxCell id="tfjduDvzeolNDpkilZ6a-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="120" width="170" x="640" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="tfjduDvzeolNDpkilZ6a-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;" value="Exibir resultados" vertex="1">
+          <mxGeometry height="50" width="100" x="675" y="655" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
