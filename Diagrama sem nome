@@ -89,7 +89,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uEVnXpaSQHd-pazGQjaj" name="Atividade">
-    <mxGraphModel dx="1433" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2150" dy="1183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -161,6 +161,9 @@
         </mxCell>
         <mxCell id="tfjduDvzeolNDpkilZ6a-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=24;" value="Exibir &quot;Valores inválidos&quot;" vertex="1">
           <mxGeometry height="50" width="100" x="65" y="655" as="geometry" />
+        </mxCell>
+        <mxCell id="tfjduDvzeolNDpkilZ6a-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Sistema calcula o resultado&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="120" x="640" y="620" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
