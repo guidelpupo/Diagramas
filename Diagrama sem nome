@@ -381,21 +381,36 @@
         </mxCell>
         <mxCell id="fyJlWR23atntlWsiEm-c-2" edge="1" parent="1" source="fyJlWR23atntlWsiEm-c-4" style="endArrow=none;html=1;rounded=0;endFill=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="180" y="280" as="sourcePoint" />
-            <mxPoint x="460" y="280" as="targetPoint" />
+            <mxPoint x="180" y="260" as="sourcePoint" />
+            <mxPoint x="460" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fyJlWR23atntlWsiEm-c-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=classic;startFill=1;" target="fyJlWR23atntlWsiEm-c-4" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="180" y="280" as="sourcePoint" />
-            <mxPoint x="460" y="280" as="targetPoint" />
+            <mxPoint x="180" y="260" as="sourcePoint" />
+            <mxPoint x="460" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fyJlWR23atntlWsiEm-c-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Exibe o formulário&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="170" x="235" y="260" as="geometry" />
+          <mxGeometry height="40" width="170" x="235" y="240" as="geometry" />
         </mxCell>
         <mxCell id="fyJlWR23atntlWsiEm-c-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Actor" vertex="1">
           <mxGeometry height="80" width="80" x="120" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzmdkxpAWq4FYfeZ5a0U-1" edge="1" parent="1" source="ZzmdkxpAWq4FYfeZ5a0U-3" style="endArrow=classic;html=1;rounded=0;endFill=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="180" y="320" as="sourcePoint" />
+            <mxPoint x="460" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZzmdkxpAWq4FYfeZ5a0U-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=none;startFill=0;" target="ZzmdkxpAWq4FYfeZ5a0U-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="180" y="320" as="sourcePoint" />
+            <mxPoint x="460" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZzmdkxpAWq4FYfeZ5a0U-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Digita peso/altura&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="235" y="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
