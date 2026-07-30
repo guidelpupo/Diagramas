@@ -412,9 +412,9 @@
         <mxCell id="ZzmdkxpAWq4FYfeZ5a0U-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Digita peso/altura&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="170" x="235" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="ZzmdkxpAWq4FYfeZ5a0U-5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;dashed=1;" target="ZzmdkxpAWq4FYfeZ5a0U-4" value="">
+        <mxCell id="ZzmdkxpAWq4FYfeZ5a0U-5" edge="1" parent="1" source="ZzmdkxpAWq4FYfeZ5a0U-15" style="endArrow=none;html=1;rounded=0;dashed=1;" target="ZzmdkxpAWq4FYfeZ5a0U-4" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="160" y="520" as="sourcePoint" />
+            <mxPoint x="160" y="600" as="sourcePoint" />
             <mxPoint x="160" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -438,12 +438,39 @@
         </mxCell>
         <mxCell id="ZzmdkxpAWq4FYfeZ5a0U-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;dashed=1;" target="ZzmdkxpAWq4FYfeZ5a0U-9" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="480" y="520" as="sourcePoint" />
+            <mxPoint x="480" y="600" as="sourcePoint" />
             <mxPoint x="480" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZzmdkxpAWq4FYfeZ5a0U-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" value="" vertex="1">
-          <mxGeometry height="20" width="130" x="415" y="415" as="geometry" />
+          <mxGeometry height="20" width="200" x="380" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzmdkxpAWq4FYfeZ5a0U-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;perimeterSpacing=0;strokeWidth=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Valida dados&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Calcula IMC&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Classifica IMC&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="35" width="140" x="250" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzmdkxpAWq4FYfeZ5a0U-12" edge="1" parent="1" source="ZzmdkxpAWq4FYfeZ5a0U-14" style="endArrow=none;html=1;rounded=0;endFill=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="180" y="560" as="sourcePoint" />
+            <mxPoint x="460" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZzmdkxpAWq4FYfeZ5a0U-13" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=classic;startFill=1;" target="ZzmdkxpAWq4FYfeZ5a0U-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="180" y="560" as="sourcePoint" />
+            <mxPoint x="460" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZzmdkxpAWq4FYfeZ5a0U-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Exibe resultado&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="255" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzmdkxpAWq4FYfeZ5a0U-16" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;dashed=1;" target="ZzmdkxpAWq4FYfeZ5a0U-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="600" as="sourcePoint" />
+            <mxPoint x="160" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZzmdkxpAWq4FYfeZ5a0U-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="150" y="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
