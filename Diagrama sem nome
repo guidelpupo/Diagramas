@@ -509,10 +509,10 @@
           <mxGeometry height="140" width="210" x="250" y="380" as="geometry" />
         </mxCell>
         <mxCell id="G1vqQBDx23p9gVMyfJiQ-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;CalculadoraIMC&lt;/b&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="210" x="250" y="630" as="geometry" />
+          <mxGeometry height="120" width="210" x="250" y="630" as="geometry" />
         </mxCell>
         <mxCell id="G1vqQBDx23p9gVMyfJiQ-8" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&amp;nbsp; + calcularIMC()&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height:2px;&quot;&gt;&amp;nbsp; + classificarIMC()&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="210" x="250" y="660" as="geometry" />
+          <mxGeometry height="90" width="210" x="250" y="660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
