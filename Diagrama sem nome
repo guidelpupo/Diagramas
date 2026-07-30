@@ -823,10 +823,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cJrnIJhmmXJ1BM3mIKv4" name="Estrutura Composta">
-    <mxGraphModel dx="860" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1433" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Qg9hdej3JcJfPoCjupc1-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="550" width="520" x="153" y="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
