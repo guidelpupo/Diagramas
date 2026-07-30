@@ -526,27 +526,27 @@
           <mxGeometry height="80" width="60" x="90" y="40" as="geometry" />
         </mxCell>
         <mxCell id="zV-87uW3CdeApvPixYMO-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;InterfaceWeb&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="140" x="330" y="50" as="geometry" />
+          <mxGeometry height="60" width="140" x="330" y="60" as="geometry" />
         </mxCell>
         <mxCell id="zV-87uW3CdeApvPixYMO-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;CalculadoraIMC&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="140" x="650" y="50" as="geometry" />
+          <mxGeometry height="60" width="140" x="650" y="60" as="geometry" />
         </mxCell>
         <mxCell id="zV-87uW3CdeApvPixYMO-5" edge="1" parent="1" source="zV-87uW3CdeApvPixYMO-9" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="120" y="480" as="sourcePoint" />
-            <mxPoint x="120" y="160" as="targetPoint" />
+            <mxPoint x="120" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zV-87uW3CdeApvPixYMO-6" edge="1" parent="1" source="zV-87uW3CdeApvPixYMO-11" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="400" y="480" as="sourcePoint" />
-            <mxPoint x="400" y="160" as="targetPoint" />
+            <mxPoint x="400" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zV-87uW3CdeApvPixYMO-7" edge="1" parent="1" source="zV-87uW3CdeApvPixYMO-13" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="720" y="480" as="sourcePoint" />
-            <mxPoint x="720" y="160" as="targetPoint" />
+            <mxPoint x="720" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zV-87uW3CdeApvPixYMO-10" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" target="zV-87uW3CdeApvPixYMO-9" value="">
