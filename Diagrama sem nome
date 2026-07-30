@@ -840,13 +840,40 @@
           <mxGeometry height="30" width="210" x="309" y="80" as="geometry" />
         </mxCell>
         <mxCell id="Qg9hdej3JcJfPoCjupc1-10" parent="1" style="html=1;whiteSpace=wrap;" value="" vertex="1">
-          <mxGeometry height="270" width="234" x="180" y="150" as="geometry" />
+          <mxGeometry height="205" width="234" x="180" y="150" as="geometry" />
         </mxCell>
         <mxCell id="Qg9hdej3JcJfPoCjupc1-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="Interface Web" vertex="1">
           <mxGeometry height="30" width="210" x="192" y="160" as="geometry" />
         </mxCell>
         <mxCell id="Qg9hdej3JcJfPoCjupc1-12" parent="1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
           <mxGeometry height="8" width="234" x="180" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Qg9hdej3JcJfPoCjupc1-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;" value="+ Formulário IMC" vertex="1">
+          <mxGeometry height="30" width="210" x="192" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Qg9hdej3JcJfPoCjupc1-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;" value="- campo peso&lt;div&gt;- campo altura&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="210" x="192" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Qg9hdej3JcJfPoCjupc1-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;" value="+ Botão Calcular" vertex="1">
+          <mxGeometry height="30" width="210" x="192" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Qg9hdej3JcJfPoCjupc1-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;" value="+ Área Resultado" vertex="1">
+          <mxGeometry height="30" width="210" x="192" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Qg9hdej3JcJfPoCjupc1-21" parent="1" style="html=1;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="130" width="234" x="430" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="Qg9hdej3JcJfPoCjupc1-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="Controlador IMC" vertex="1">
+          <mxGeometry height="30" width="210" x="442" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="Qg9hdej3JcJfPoCjupc1-23" parent="1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="234" x="430" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="Qg9hdej3JcJfPoCjupc1-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;" value="+ validarDados()" vertex="1">
+          <mxGeometry height="30" width="210" x="442" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="Qg9hdej3JcJfPoCjupc1-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;" value="+ solicitarCalculo()" vertex="1">
+          <mxGeometry height="30" width="210" x="442" y="305" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
