@@ -165,7 +165,7 @@
           <mxGeometry height="40" width="170" x="235" y="240" as="geometry" />
         </mxCell>
         <mxCell id="fyJlWR23atntlWsiEm-c-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Usuário" vertex="1">
-          <mxGeometry height="80" width="80" x="120" y="40" as="geometry" />
+          <mxGeometry height="80" width="60" x="130" y="40" as="geometry" />
         </mxCell>
         <mxCell id="ZzmdkxpAWq4FYfeZ5a0U-1" edge="1" parent="1" source="ZzmdkxpAWq4FYfeZ5a0U-3" style="endArrow=classic;html=1;rounded=0;endFill=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
