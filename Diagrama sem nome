@@ -863,6 +863,9 @@
         <mxCell id="Qg9hdej3JcJfPoCjupc1-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=15;" value="+ Área Resultado" vertex="1">
           <mxGeometry height="30" width="210" x="309" y="520" as="geometry" />
         </mxCell>
+        <mxCell id="cS7eIL9gNPQBoYny9ecJ-4" edge="1" parent="1" source="Qg9hdej3JcJfPoCjupc1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cS7eIL9gNPQBoYny9ecJ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Qg9hdej3JcJfPoCjupc1-21" parent="1" style="html=1;whiteSpace=wrap;" value="" vertex="1">
           <mxGeometry height="130" width="234" x="298" y="860" as="geometry" />
         </mxCell>
@@ -910,6 +913,18 @@
         </mxCell>
         <mxCell id="hOBYiiRi-E7xvGNkv3Nc-15" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" value="Envia" vertex="1">
           <mxGeometry x="414" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="cS7eIL9gNPQBoYny9ecJ-2" edge="1" parent="1" source="cS7eIL9gNPQBoYny9ecJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Qg9hdej3JcJfPoCjupc1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cS7eIL9gNPQBoYny9ecJ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Resultado&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="895" as="geometry" />
+        </mxCell>
+        <mxCell id="cS7eIL9gNPQBoYny9ecJ-3" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" value="Exibe" vertex="1">
+          <mxGeometry x="670" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="cS7eIL9gNPQBoYny9ecJ-5" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" value="Envia" vertex="1">
+          <mxGeometry x="590" y="908" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
