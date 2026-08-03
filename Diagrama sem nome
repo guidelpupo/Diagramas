@@ -997,6 +997,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZpoqaT7lgB1dav6uR3TU-6" edge="1" parent="1" source="XmUZF-nrEUnzJrfxsrN0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=10;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="XmUZF-nrEUnzJrfxsrN0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XmUZF-nrEUnzJrfxsrN0-1" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="140" width="190" x="450" y="160" as="geometry" />
         </mxCell>
@@ -1014,6 +1017,12 @@
         </mxCell>
         <mxCell id="ZpoqaT7lgB1dav6uR3TU-3" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontSize=20;" value="Lógica de Cálculo" vertex="1">
           <mxGeometry height="26" width="80" x="190" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpoqaT7lgB1dav6uR3TU-4" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="190" x="450" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpoqaT7lgB1dav6uR3TU-5" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontSize=20;" value="Lógica de Cálculo" vertex="1">
+          <mxGeometry height="26" width="80" x="510" y="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
