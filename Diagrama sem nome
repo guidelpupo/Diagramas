@@ -1009,6 +1009,12 @@
         <mxCell id="XmUZF-nrEUnzJrfxsrN0-4" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontSize=20;" value="Interface Web" vertex="1">
           <mxGeometry height="26" width="80" x="185" y="217" as="geometry" />
         </mxCell>
+        <mxCell id="ZpoqaT7lgB1dav6uR3TU-1" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="140" width="190" x="130" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpoqaT7lgB1dav6uR3TU-3" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontSize=20;" value="Lógica de Cálculo" vertex="1">
+          <mxGeometry height="26" width="80" x="190" y="450" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
