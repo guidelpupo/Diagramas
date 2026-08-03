@@ -1007,7 +1007,7 @@
           <mxGeometry height="140" width="190" x="130" y="160" as="geometry" />
         </mxCell>
         <mxCell id="XmUZF-nrEUnzJrfxsrN0-4" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontSize=20;" value="Interface Web" vertex="1">
-          <mxGeometry height="26" width="80" x="185" y="170" as="geometry" />
+          <mxGeometry height="26" width="80" x="185" y="217" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
